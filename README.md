@@ -2,4 +2,4 @@
 
 Hello My name is YeonSun
 
-<img width=""height=""src="./png/dog.png"></img>
+<img width=""height=""src="./Png/dog.png"></img>
